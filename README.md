@@ -23,4 +23,6 @@ This project is a **Windows Forms** application designed for managing exams effi
 2. **Exam Creation:** Instructors create and assign exams to their courses.  
 3. **Exam Participation:** Students take exams within a specified time frame.  
 4. **Result Processing:** System automatically evaluates and records grades.  
-5. **Reporting:** Administrators and instructors generate reports for performance analysis.  
+5. **Reporting:** Administrators and instructors generate reports for performance analysis.
+
+
