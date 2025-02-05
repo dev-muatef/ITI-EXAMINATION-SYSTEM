@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD1B669-8F73-464F-B7C4-00BA50202AFB}|Desktop.csproj|d:\\desktop\\admin\\examquestionsform\\examquestionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD1B669-8F73-464F-B7C4-00BA50202AFB}|Desktop.csproj|solutionrelative:admin\\examquestionsform\\examquestionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD1B669-8F73-464F-B7C4-00BA50202AFB}|Desktop.csproj|d:\\desktop\\instructorforms\\examsform\\examquestionsform\\examquestionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD1B669-8F73-464F-B7C4-00BA50202AFB}|Desktop.csproj|solutionrelative:instructorforms\\examsform\\examquestionsform\\examquestionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD1B669-8F73-464F-B7C4-00BA50202AFB}|Desktop.csproj|d:\\desktop\\data\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD1B669-8F73-464F-B7C4-00BA50202AFB}|Desktop.csproj|solutionrelative:data\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD1B669-8F73-464F-B7C4-00BA50202AFB}|Desktop.csproj|d:\\desktop\\instructorforms\\examsform\\examsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD1B669-8F73-464F-B7C4-00BA50202AFB}|Desktop.csproj|solutionrelative:instructorforms\\examsform\\examsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD1B669-8F73-464F-B7C4-00BA50202AFB}|Desktop.csproj|d:\\desktop\\instructorforms\\examsform\\examstudentsform\\examstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD1B669-8F73-464F-B7C4-00BA50202AFB}|Desktop.csproj|solutionrelative:instructorforms\\examsform\\examstudentsform\\examstudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamQuestionForm.cs",
+              "DocumentMoniker": "D:\\Desktop\\Admin\\ExamQuestionsForm\\ExamQuestionForm.cs",
+              "RelativeDocumentMoniker": "Admin\\ExamQuestionsForm\\ExamQuestionForm.cs",
+              "ToolTip": "D:\\Desktop\\Admin\\ExamQuestionsForm\\ExamQuestionForm.cs",
+              "RelativeToolTip": "Admin\\ExamQuestionsForm\\ExamQuestionForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:42:49.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExamStudentsForm.cs",
+              "DocumentMoniker": "D:\\Desktop\\InstructorForms\\ExamsForm\\ExamStudentsForm\\ExamStudentsForm.cs",
+              "RelativeDocumentMoniker": "InstructorForms\\ExamsForm\\ExamStudentsForm\\ExamStudentsForm.cs",
+              "ToolTip": "D:\\Desktop\\InstructorForms\\ExamsForm\\ExamStudentsForm\\ExamStudentsForm.cs",
+              "RelativeToolTip": "InstructorForms\\ExamsForm\\ExamStudentsForm\\ExamStudentsForm.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:34:51.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExamsForm.cs",
+              "DocumentMoniker": "D:\\Desktop\\InstructorForms\\ExamsForm\\ExamsForm.cs",
+              "RelativeDocumentMoniker": "InstructorForms\\ExamsForm\\ExamsForm.cs",
+              "ToolTip": "D:\\Desktop\\InstructorForms\\ExamsForm\\ExamsForm.cs",
+              "RelativeToolTip": "InstructorForms\\ExamsForm\\ExamsForm.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAUwOcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:32:53.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamQuestionsForm.cs",
+              "DocumentMoniker": "D:\\Desktop\\InstructorForms\\ExamsForm\\ExamQuestionsForm\\ExamQuestionsForm.cs",
+              "RelativeDocumentMoniker": "InstructorForms\\ExamsForm\\ExamQuestionsForm\\ExamQuestionsForm.cs",
+              "ToolTip": "D:\\Desktop\\InstructorForms\\ExamsForm\\ExamQuestionsForm\\ExamQuestionsForm.cs",
+              "RelativeToolTip": "InstructorForms\\ExamsForm\\ExamQuestionsForm\\ExamQuestionsForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwDkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:31:46.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExamContext.cs",
+              "DocumentMoniker": "D:\\Desktop\\Data\\ExamContext.cs",
+              "RelativeDocumentMoniker": "Data\\ExamContext.cs",
+              "ToolTip": "D:\\Desktop\\Data\\ExamContext.cs",
+              "RelativeToolTip": "Data\\ExamContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA2wDAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:20:41.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
