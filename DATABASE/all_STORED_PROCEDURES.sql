@@ -1995,16 +1995,34 @@ left join Std_Crs SC on SC.StdID=c.ID and IC.InsID=@instructID group by c.Name
 end
 sp_std_courses_instructor 2
 -----------------Report that takes course ID and returns its topics -------------------------
-CREATE PROCEDURE sp_GetCourse_ITS_Topics 
+CREATE or alter PROCEDURE sp_GetCourse_ITS_Topics 
     @CrsID INT
 AS
 BEGIN
+
     SELECT 
         t.Name AS TopicName
     FROM Topic t
     WHERE t.CrsID = @CrsID;
 END;
 exec sp_GetCourse_ITS_Topics  1
+----for report builder
+
+CREATE or alter PROCEDURE sp_GetCourse_Topics_by_crsid 
+    @CrsID INT
+AS
+BEGIN
+SELECT 
+    c.Name AS CourseName,
+    t.Name AS TopicName
+FROM 
+    course c
+LEFT JOIN 
+    Topic t ON t.CrsID = c.id
+WHERE 
+    c.id = @CrsID
+
+END;
 -----------------Report that takes exam number and returns the Questions in it and chocies--
 CREATE or alter procedure sp_GET_exam_question_choice
 @examid int 
