@@ -25,10 +25,11 @@ This project is a **Windows Forms** application designed for managing exams effi
 4. **Result Processing:** System automatically evaluates and records grades.  
 5. **Reporting:** Administrators and instructors generate reports for performance analysis.
 
+### Application User interface
+![Application User interface](https://github.com/dev-muatef/ITI-EXAMINATION-SYSTEM/blob/main/images/Application%20interface.PNG)
 
 ### Entity Relationship Diagram
 ![Entity Relationship Diagram](https://github.com/dev-muatef/ITI-EXAMINATION-SYSTEM/blob/main/DATABASE/ERDjpg.jpg?raw=true)
 
-### Application User interface
-![Application User interface](https://github.com/dev-muatef/ITI-EXAMINATION-SYSTEM/blob/main/images/Application%20interface.PNG)
+
 
